@@ -1,5 +1,6 @@
 # website_food
 
-This is a ready-made website consisting of seven modules. The modules are located in the folder js/modules.
+Это сайт, состоящий из семи модулей. Сборка осуществляется с помощью webpack.
 
-The project uses the npm package json-server to create and verify get and post requests. The assembly is carried out using webpack.
+В проекте используется json-server и npm для создания и проверки запросов на получение и публикацию. 
+
